@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{C577A913-A9BE-43AC-A719-FC348BBA1A42}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EquisoftDemo/ViewModel/DemoViewModel.cs">
+    <Files>
+      <File FileName="EquisoftDemo/EquisoftDemoPage.xaml.cs" Line="27" Column="6" />
+      <File FileName="EquisoftDemo/EquisoftDemoPage.xaml" Line="8" Column="32" />
+      <File FileName="EquisoftDemo/MyPage.xaml" Line="4" Column="50" />
+      <File FileName="EquisoftDemo/MyPage.xaml.cs" Line="14" Column="26" />
+      <File FileName="EquisoftDemo/App.xaml.cs" Line="11" Column="1" />
+      <File FileName="EquisoftDemo/ViewModel/DemoViewModel.cs" Line="16" Column="32" />
+      <File FileName="EquisoftDemo/Model/Person.cs" Line="22" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EquisoftDemo" expanded="True">
+            <Node name="EquisoftDemo" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="ViewModel" expanded="True">
+                <Node name="DemoViewModel.cs" selected="True" />
+              </Node>
+              <Node name="EquisoftDemoPage.xaml" expanded="True" />
+            </Node>
+            <Node name="EquisoftDemo.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EquisoftDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E58B5813-5EE2-4B80-8E95-43BFCFD7A7F5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EquisoftDemo.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

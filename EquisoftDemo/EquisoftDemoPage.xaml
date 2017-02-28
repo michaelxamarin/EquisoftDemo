@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:EquisoftDemo" x:Class="EquisoftDemo.EquisoftDemoPage">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+			<Label x:Name="MyLabel" Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="Center" />
+			<Entry x:Name="MyInput" Text="{Binding MyInput}" Placeholder="Please enter some text!"/>
+			<Button x:Name="MyButton" Text="Click Me" Command="{Binding LoginCommand}" VerticalOptions="Center" HorizontalOptions="Center" Margin="0, 20, 0, 0" />
+			<ActivityIndicator IsRunning="{Binding IsBusy}" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
